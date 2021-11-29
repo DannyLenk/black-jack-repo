@@ -1,0 +1,35 @@
+body {
+   color: #ffffff;
+   background: url(../bjProject/img/table.png) 0 0/cover;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-size: 18px;
+   text-align: center;
+}
+h1 {
+   color: goldenrod;
+}
+h2 {
+   color: #ffffff;
+   font-size: 20px;
+   font-style: italic;
+}
+.btns {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+button {
+   font-size: 18px;
+   color:green;
+   background-color: goldenrod;
+   border: none;
+   width: 180px;
+   margin-bottom: 5px;
+   padding: 5px 0 2px;
+   font-weight: bold;
+   text-transform: uppercase;
+   border-radius: 2px;
+}
+p {
+   margin: 10px 0;
+}
